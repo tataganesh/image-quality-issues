@@ -15,3 +15,12 @@ operators:
   - compute_saturation
   - compute_vignetting
   - find_issues
+  - compute_patch_brightness
+  - compute_patch_aspect_ratio
+  - compute_patch_blurriness
+  - compute_patch_contrast
+  - compute_patch_entropy
+  - compute_patch_exposure
+  - compute_patch_salt_and_pepper
+  - compute_patch_saturation
+  - compute_patch_vignetting
